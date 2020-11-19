@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RandomizedCooldowns\Source\Assemblies\IXDS_RandomizedCooldowns.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RandomizedCooldowns\Source\RandomizedCooldowns\RandomizedCooldowns\obj\Release\RandomizedCooldowns.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RandomizedCooldowns\Source\RandomizedCooldowns\RandomizedCooldowns\obj\Release\RandomizedCooldowns.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RandomizedCooldowns\Source\RandomizedCooldowns\RandomizedCooldowns\obj\Release\IXDS_RandomizedCooldowns.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RandomizedCooldowns\Source\RandomizedCooldowns\RandomizedCooldowns\obj\Release\RandomizedCooldowns.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RandomizedCooldowns\Assemblies\IXDS_RandomizedCooldowns.dll

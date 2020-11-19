@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>iron_xides.random_cooldowns</identifier>
+  <targetVersions>
+    <li>1.2.0</li>
+  </targetVersions>
+</Manifest>

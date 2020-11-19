@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Random Cooldowns</name>
+  <packageId>iron_xides.random_cooldowns</packageId>
+  <author>Iron Xides</author>
+  <supportedVersions>
+  	<li>1.2</li>
+  </supportedVersions>
+  <description>Adds a random value to ranged attack cooldowns, so pawns shoot at an uneven pace.
+  
+You may want to use this mod to make combat seem slightly more chaotic. It can also increase difficulty by making the cooldown of faster weapons unreliable.
+  
+Cooldown decreases (bonuses) are more common than increases, but also smaller. The average (mean) cooldown is the same. The effect does not scale, so it is more noticeable with faster weapons.
+  
+All vanilla ranged weapons are affected. Almost all modded weapons should be affected. Modded weapons with very short cooldowns are intentionally unaffected.
+  
+Load order shouldn't matter. Adding or removing the mod from saves should be safe. Almost all mods should be compatible, except ones that modify the relevant ranged attack code in a heavy-handed way.
+
+Uses Harmony.
+  
+Known issues:
+- If you shoot at an enemy before trying to run away, you may be stuck in cooldown for longer than you expect, and then die and get upset.
+</description>
+  <modDependencies>
+      <li>
+          <packageId>brrainz.harmony</packageId>
+          <displayName>Harmony</displayName>
+          <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+          <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      </li>
+  </modDependencies>
+</ModMetaData>
